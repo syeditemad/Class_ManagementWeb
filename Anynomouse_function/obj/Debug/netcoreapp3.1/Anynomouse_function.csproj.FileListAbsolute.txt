@@ -1,0 +1,14 @@
+C:\Users\itemad.hyder\source\repos\Anynomouse_function\Anynomouse_function\bin\Debug\netcoreapp3.1\Anynomouse_function.exe
+C:\Users\itemad.hyder\source\repos\Anynomouse_function\Anynomouse_function\bin\Debug\netcoreapp3.1\Anynomouse_function.deps.json
+C:\Users\itemad.hyder\source\repos\Anynomouse_function\Anynomouse_function\bin\Debug\netcoreapp3.1\Anynomouse_function.runtimeconfig.json
+C:\Users\itemad.hyder\source\repos\Anynomouse_function\Anynomouse_function\bin\Debug\netcoreapp3.1\Anynomouse_function.runtimeconfig.dev.json
+C:\Users\itemad.hyder\source\repos\Anynomouse_function\Anynomouse_function\bin\Debug\netcoreapp3.1\Anynomouse_function.dll
+C:\Users\itemad.hyder\source\repos\Anynomouse_function\Anynomouse_function\bin\Debug\netcoreapp3.1\Anynomouse_function.pdb
+C:\Users\itemad.hyder\source\repos\Anynomouse_function\Anynomouse_function\obj\Debug\netcoreapp3.1\Anynomouse_function.csproj.AssemblyReference.cache
+C:\Users\itemad.hyder\source\repos\Anynomouse_function\Anynomouse_function\obj\Debug\netcoreapp3.1\Anynomouse_function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itemad.hyder\source\repos\Anynomouse_function\Anynomouse_function\obj\Debug\netcoreapp3.1\Anynomouse_function.AssemblyInfoInputs.cache
+C:\Users\itemad.hyder\source\repos\Anynomouse_function\Anynomouse_function\obj\Debug\netcoreapp3.1\Anynomouse_function.AssemblyInfo.cs
+C:\Users\itemad.hyder\source\repos\Anynomouse_function\Anynomouse_function\obj\Debug\netcoreapp3.1\Anynomouse_function.csproj.CoreCompileInputs.cache
+C:\Users\itemad.hyder\source\repos\Anynomouse_function\Anynomouse_function\obj\Debug\netcoreapp3.1\Anynomouse_function.dll
+C:\Users\itemad.hyder\source\repos\Anynomouse_function\Anynomouse_function\obj\Debug\netcoreapp3.1\Anynomouse_function.pdb
+C:\Users\itemad.hyder\source\repos\Anynomouse_function\Anynomouse_function\obj\Debug\netcoreapp3.1\Anynomouse_function.genruntimeconfig.cache
